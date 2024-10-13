@@ -1,0 +1,5 @@
+1. The terminal is a place on your computer where you can directly communicate with your computer and Git. 
+
+2. The major difference between GitHub and Git is that GitHub you can share and easily view repositories, while with Git, it is much harder to look at and search though.
+
+3. Click on the CODE button on the repo that you want to fork, and copy the clone link. In your terminal, use " git clone" and then paste the link you copied. Use "cd" to enter the file and use "mkdir" to create a new file, or you can use "touch" to add something to this file. Use "git status" to see how things are looking, and then use "git add" + the file you want to add. After this, you can commit using "git commit -m """, and don't forget to add your message. After committing, you can then finally use "git push origin main" to push to the repo. 
